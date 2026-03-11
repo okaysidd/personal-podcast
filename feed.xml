@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd">
+  <channel>
+    <title>My Personal Audio</title>
+    <description>Private feed hosted on GitHub Pages</description>
+    <language>en-us</language>
+    
+    <item>
+      <title>Episode 1: Punjabi MC Jogi</title>
+      <description>Notes about this audio file.</description>
+      <pubDate>Thu, 12 Mar 2026 08:00:00 GMT</pubDate>
+      <enclosure url="https://okaysidd.github.io/personal-podcast/PunjabiMCJogi.mp3" type="audio/mpeg" length="1024"/>
+      <guid>episode_001</guid>
+    </item>
+
+  </channel>
+</rss>
